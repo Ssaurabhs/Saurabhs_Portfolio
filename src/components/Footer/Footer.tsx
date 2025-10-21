@@ -37,7 +37,7 @@ export function Footer() {
         >
           <img src={whatsapp} alt="Whatsapp" />
         </a>
-        <a
+        {/* <a
           href=""
           target="_blank"
           rel="noreferrer"
@@ -50,7 +50,7 @@ export function Footer() {
           rel="noreferrer"
         >
           <img src={instagramIcon} alt="Instagram" />
-        </a>
+        </a> */}
       </div>
     </Container>
   )
